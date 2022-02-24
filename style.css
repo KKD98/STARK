@@ -1,0 +1,103 @@
+.logo{
+    height: 47px;
+    width: 47px;
+}
+
+.container{
+    margin-bottom: 40px;
+}
+
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.banner2{
+    height: 602px;
+    width: 460px;
+}
+
+.banner3{
+    height: 602px;
+}
+
+.price{
+    color: rgb(216, 18, 110);
+}
+
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    /* background-color: orange; */
+    
+    background-image: linear-gradient(to bottom,  #fcff58 0%, #ffb413 100%);
+}
+
+.cat2{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+.cat3{
+    background-image: linear-gradient(to bottom, hsl(239, 100%, 67%) 0%, #132bff 100%);
+}
+
+.catimg{
+    height: 200px;
+    width: 200px;
+}
+
+.container-categories h1{
+    color: #fceae8;
+}
+
+.bag2{
+    height: 422px;
+}
+
+.bag1, .bag2, .bag3{
+    padding: 5px 10px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.watch1, .watch2, .watch3{
+    height: 400px;
+    width: 400px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#subscribe{
+    height: 300px;
+}
+
+#subscribe h6{
+    color: gray;
+}
+
+
+footer{
+    text-align: center;
+}
